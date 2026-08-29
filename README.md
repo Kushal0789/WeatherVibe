@@ -29,7 +29,8 @@ A responsive weather dashboard built with **HTML, CSS and JavaScript**, featurin
 
 ## ✨ Project Preview
 
-<img width="1893" height="862" alt="image" src="https://github.com/user-attachments/assets/c586da24-6843-4798-a7d2-321e4db22811" />
+<img width="1916" height="886" alt="weather-vibe-preview png" src="https://github.com/user-attachments/assets/7022ffb1-6b5e-433d-9ecb-4b3e6693b606" />
+
 
 
 
