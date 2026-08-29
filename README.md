@@ -1,2 +1,2 @@
 # WeatherVibe
-This is a weather website for local citizen
+A modern bilingual real-time weather dashboard built with HTML, CSS and JavaScript.
