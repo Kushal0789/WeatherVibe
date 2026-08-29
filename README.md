@@ -29,23 +29,8 @@ A responsive weather dashboard built with **HTML, CSS and JavaScript**, featurin
 
 ## ✨ Project Preview
 
-> 📸 **Add your website screenshot here**
+<img width="1893" height="862" alt="image" src="https://github.com/user-attachments/assets/842de0c8-2c3d-4b27-a318-1e69431feab9" />
 
-Save a screenshot of the live WeatherVibe dashboard as:
-
-```text
-assets/weather-vibe-preview.png
-```
-
-Then replace this section with:
-
-```markdown
-![WeatherVibe Preview](assets/weather-vibe-preview.png)
-```
-
-A good screenshot should show the **main dashboard, current weather, forecast cards and weather metrics**.
-
----
 
 ## 🚀 Live Demo
 
